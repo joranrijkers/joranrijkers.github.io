@@ -30,7 +30,7 @@ li a {
 }
 
 li a:hover {
-    background-color: powderblue;
+    background-color: blue;
     color: black;
 }
 
@@ -81,7 +81,7 @@ input {
     .steam {
         border: black 5px;
         padding: 10px;
-        background-color: aqua;
+        background:linear-gradient(45deg, blue, lightblue);
         color: black;
         text-decoration: none;
         border-radius: 10px;
