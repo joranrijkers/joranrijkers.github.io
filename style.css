@@ -31,7 +31,7 @@ li a {
 
 li a:hover {
     background-color: blue;
-    color: black;
+    color: white;
 }
 
 input {
@@ -82,7 +82,7 @@ input {
         border: black 5px;
         padding: 10px;
         background:linear-gradient(45deg, blue, lightblue);
-        color: black;
+        color: white;
         text-decoration: none;
         border-radius: 10px;
         margin-bottom: 50px;
