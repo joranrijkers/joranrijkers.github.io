@@ -38,10 +38,12 @@ input {
     float: right;
     margin-top: 11px;
     margin-right: 10px;
-    background-color: powderblue;
+    background-color: #21242b;
     border-radius: 5px;
     border: none;
     padding: 5px 5px 5px 5px;
+    color: #ef6831;
+    
 }
 
 .active {
@@ -55,6 +57,7 @@ input {
     font-size: 80px;
     font-weight: 900;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
 }
 
 .midtxt {
@@ -88,6 +91,10 @@ input {
         border-radius: 10px;
         margin-bottom: 50px;
     }
+
+  .youtube {
+      border-radius: 15px;
+  }
     
 
    
