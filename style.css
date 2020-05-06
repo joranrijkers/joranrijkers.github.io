@@ -1,6 +1,6 @@
 
 
-body  {background-color: powderblue;} 
+body  {background: linear-gradient(45deg, lightblue, dark blue)} 
 
  ul {
     list-style-type: none;
