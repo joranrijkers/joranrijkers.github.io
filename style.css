@@ -99,9 +99,7 @@ input {
       border-radius: 15px;
   }
     
-  .logo {
-    float: left;
-    position: relative;
-    margin-left: 566px;
+  .logo {    
+    margin-top: 0;
 }
    
