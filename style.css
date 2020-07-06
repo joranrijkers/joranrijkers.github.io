@@ -103,12 +103,27 @@ input {
     margin-top: 0;
 }
 
-.Mail {
+.Emailbutton {
 
  
     color: #ef6831;
+    padding: 10px;
+    border: #2d3037 5px ;
+    text-decoration: none;
+    background-color: #2d3037;
+    border-radius: 10px;
     
-
-
 }
+
+.Callbutton {
+
+    color: #ef6831;
+    padding: 10px 37px 10px 37px;
+    border: #2d3037 5px;
+    text-decoration: none;
+    background-color: #2d3037;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
    
