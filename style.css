@@ -134,8 +134,7 @@ input {
 
 }
  
-.break p {
+.break {
 
-   color: #2d3037;
-
+    color: #2d3037;
 }
